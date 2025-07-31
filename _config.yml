@@ -12,10 +12,7 @@ site_theme               : "default"
 title                    : "Shreeya Behera"
 title_separator          : "-"
 name                     : &name "Shreeya Behera"
-description              : &description "I am a mathematician and data scientist with a Ph.D. in Mathematics, and a minor in Computer Science from 
-                      The Ohio State University. My research spans combinatorics, graph theory, and machine learning. 
-                      I’m also a passionate educator, recognized for inclusive teaching and mentorship. 
-                      I’m deeply interested in using data science to improve education and student mental health"
+description              : &description "Assistant Professor of Instruction"
 url                      : "https://shreeyabehera.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shreeyabehera/shreeyabehera.github.io"
@@ -26,16 +23,13 @@ repository               : "Shreeyabehera/shreeyabehera.github.io"
 author:
   # Biographic information
   avatar           : "IMG20241220164300.jpg"
-  name             : "Shreeya Behera"
-  pronouns         : # example: "she/her"  
-  bio              : "I am a mathematician and data scientist with a Ph.D. in Mathematics, and a minor in Computer Science from 
-                      The Ohio State University. My research spans combinatorics, graph theory, and machine learning. 
-                      I’m also a passionate educator, recognized for inclusive teaching and mentorship. 
-                      I’m deeply interested in using data science to improve education and student mental health"
-  location         : "United States"
+  #name             : "Shreeya Behera"
+  pronouns         : "she/her"  
+  bio              : "Assistant Professor of Instruction"
+  location         : "Department fo Statistics and Data Science"
   employer         : "Northwestern University"
-  uri              : # URL
-  email            : "behera.shreeya@gmail.com" 
+  uri              : #
+  email            : "shreeya.behera@northwestern.edu" 
 
   # Academic websites
   academia         : https://statistics.northwestern.edu/people/faculty/shreeya-behera.html
