@@ -11,4 +11,4 @@ I am a mathematician and data scientist with a Ph.D. in Mathematics, and a minor
 
 To learn more about my research, [click here](/publication_final/).&ensp;To download my CV,<a style="color:#046490;" href="/files/CV/Shreeya_CV.pdf"> click here</a>.    
 
-**Contact:**&ensp;[Email](shreeya.behera@northwestern.edu) 
+**Contact:**&ensp;[Email](mailto:shreeya.behera@northwestern.edu) 
