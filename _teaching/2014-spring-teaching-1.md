@@ -1,7 +1,11 @@
 ---
-title: "The Ohio State University"
-location: "Columbus, OH"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
+
+# The Ohio State University
 
 1. **2177: Calculus 3** (Mathematical Topics for Engineers)  
    - **Semester:** Fall 2024  
