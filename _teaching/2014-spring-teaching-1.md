@@ -7,40 +7,21 @@ author_profile: true
 
 # The Ohio State University
 
-1. **2177: Calculus 3** (Mathematical Topics for Engineers)  
-   - **Semester:** Fall 2024  
-   - **Course Description:** Optimization problems, multiple integrals, line integrals; matrix algebra; linear (ordinary and partial) differential equations.  
-   - **Instructional Style:** Problem-solving, active learning, occasionally teaching a new topic or finishing up material from the previous lecture.
+- **2177: Calculus 3** (Mathematical Topics for Engineers: Multiple integrals, line integrals; matrix algebra; linear (ordinary and partial) differential equations), taught in Fall 2024.
 
-2. **MATH 2173: Calculus 3** (Engineering Mathematics B)  
-   - **Semester:** Fall 2023, 2024  
-   - **Course Description:** Optimization problems, multiple integrals, line integrals, vector fields; second-order ordinary linear differential equations.  
-   - **Instructional Style:** Problem-solving, active learning, occasionally teaching a new topic or finishing up material from the previous lecture.
+- **2173: Calculus 3** (Engineering Mathematics B: Multiple integrals, line integrals, vector fields, second order ordinary differential equations), taught in Fall 2024, Fall 2023.
 
-3. **MATH 2153: Calculus 3**  
-   - **Semester:** Fall 2021, Fall 2022  
-   - **Course Description:** Foundational topics in multivariable calculus and vector calculus.  
-   - **Instructional Style:** Problem-solving, active learning, occasionally teaching a new topic or finishing up material from the previous lecture.
+- **1149: Trigonometry** (Trigonometric functions and their properties, vectors, polar coordinates, and complex numbers), taught in Spring 2024, Spring 2022.
 
-4. **MATH 1172: Calculus 2** (Engineering Mathematics A)  
-   - **Semester:** Spring 2020  
-   - **Course Description:** Integration techniques, Taylor series, differential calculus of several variables, and applications.  
-   - **Instructional Style:** Problem-solving recitations, worksheet-driven.
+- **2153: Calculus 3** (Multi-variable differential and integral calculus), taught in Fall 2022, Fall 2021.
 
-5. **MATH 1152: Calculus 2**  
-   - **Semester:** Fall 2020  
-   - **Course Description:** Integral calculus, sequences and series, parametric curves, and polar coordinates.  
-   - **Instructional Style:** Problem-solving recitations, worksheet-driven.
+- **1131: Calculus for Business** (Survey of the calculus of one and several variables, with business applications), taught in Spring 2021.
 
-6. **MATH 1151: Calculus 1**  
-   - **Semester:** Fall 2019  
-   - **Course Description:** Differential and integral calculus of one real variable.  
-   - **Instructional Style:** Problem-solving recitations, worksheet-driven.
+- **1152: Calculus 2** (Integral calculus, sequences and series, parametric curves, and polar coordinates), taught in Fall 2020.
 
-7. **MATH 1149: Trigonometry**  
-   - **Semester:** Spring 2022, Spring 2024  
-   - **Course Description:** Trigonometric functions and their properties, vectors, polar coordinates, and complex numbers.  
-   - **Instructional Style:** Problem-solving recitations, worksheet-driven.
+- **1172: Engineering Mathematics A** (Integration techniques, Taylor series, differential calculus of several variables, and applications), taught in Spring 2020.
+
+- **1151: Calculus 1** (Differential and integral calculus of one real variable), taught in Fall 2019.
 
 8. **MATH 1131: Calculus for Business**  
    - **Semester:** Spring 2021  
