@@ -7,8 +7,8 @@ author_profile: true
 **Teaching Highlights:** Received the Phil Huneke Distinguished Graduate Teaching Associate Award for exceptional teaching contributions in 2021; 
 
 # Northwestern University
-**STAT 301** - 
-**STAT 201** - 
+STAT 301 - 
+STAT 201 - 
 
 
 # The Ohio State University
