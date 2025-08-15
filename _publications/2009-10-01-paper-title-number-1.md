@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Shreeya Behera, Matthew Kahle. ``Coloring multi-distance graphs in the plane: the probabilistic approach." (in prep.)
+
+Shreeya Behera. “[Variants of the chromatic number of the plane.](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=osu1721229670062474&clear=10&session=27173599190969)" PhD thesis, Ohio State University, 2024.
+
+Shreeya Behera. “[Equidistribution Theorems in the Theory of Modular Forms.](http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/1017)" MS thesis, Indian Institute of Science Education and Research Pune, 2018.
