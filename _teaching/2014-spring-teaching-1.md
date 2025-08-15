@@ -5,15 +5,14 @@ author_profile: true
 ---
 
 
-# Northwestern University
-### Instructor
-
+# Northwestern University<br>
+### Instructor<br>
 **Fall 2025**<br>
 STAT 303-1: Data Science with Python Sequence<br>
 STAT 201: Introduction to Programming for Data Science
  
-# The Ohio State University
-### Teaching Assistant
+# The Ohio State University<br>
+### Teaching Assistant<br>
 2177: Calculus 3 — Mathematical Topics for Engineers (Fall 2024)  
 2173: Calculus 3 — Engineering Mathematics B (Fall 2024, Fall 2023) 
 1149: Trigonometry (Spring 2024, Spring 2022)  
