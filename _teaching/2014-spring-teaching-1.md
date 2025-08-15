@@ -9,7 +9,7 @@ author_profile: true
 # Northwestern University
 **Fall 2025**
 
-STAT 303-1: Data Science with Python Sequence (UG/G) 
+STAT 303-1: Data Science with Python Sequence 
 
 STAT 201: Introduction to Programming for Data Science
  
