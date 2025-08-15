@@ -13,6 +13,6 @@ Before joining Northwestern, I was a Data Scientist at [Pandora Bio](https://pan
 
 My research spans combinatorics, graph theory, and machine learning. I’m also a passionate educator, recognized for inclusive teaching and mentorship. I’m deeply interested in using data science to improve education and student mental health.
 
-To learn more about my research, [click here](/publication_final/).&ensp;To download my CV,<a style="color:#046490;" href="files/cv.pdf"> click here</a>.    
+To download my CV,<a style="color:#046490;" href="files/cv.pdf"> click here</a>.    
 
 **Contact:**&ensp;shreeya.behera[at]northwestern[dot]edu 
