@@ -7,9 +7,11 @@ author_profile: true
 **Teaching Highlights:** Received the Phil Huneke Distinguished Graduate Teaching Associate Award for exceptional teaching contributions in 2021; 
 
 # Northwestern University
-STAT 301 - 
-STAT 201 - 
+**Fall 2025**
+STAT 303-1: Data Science with Python Sequence (UG/G) 
 
+STAT 201: Introduction to Programming for Data Science
+ 
 
 # The Ohio State University
 2177: Calculus 3 — Mathematical Topics for Engineers (Fall 2024)  
