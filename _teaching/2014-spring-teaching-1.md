@@ -3,7 +3,7 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 ---
-**Teaching Highlights:** Received the Phil Huneke Distinguished Graduate Teaching Associate Award for exceptional teaching contributions in 2021; 
+**Teaching Highlights:** Received the Phil Huneke Distinguished Graduate Teaching Associate Award for exceptional teaching contributions in 2021. 
 
 # Northwestern University
 **Fall 2025**
