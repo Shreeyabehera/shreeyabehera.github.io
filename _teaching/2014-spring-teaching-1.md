@@ -23,5 +23,6 @@ STAT 201: Introduction to Programming for Data Science
 1152: Calculus 2 (Fall 2020)  <br>
 1172: Engineering Mathematics A (Spring 2020) <br>
 1151: Calculus 1 (Fall 2019)<br>
+**[OSU Cumulative SEI Report](https://drive.google.com/file/d/1CLcmfIZpANJeMKUikQZ1UjgGzUx8E9_Z/view?usp=sharing)**
 
 **Teaching Highlights:** Received the Phil Huneke Distinguished Graduate Teaching Associate Award for exceptional teaching contributions in 2021. 
