@@ -14,10 +14,11 @@ STAT 201: Introduction to Programming for Data Science
  
 # The Ohio State University<br>
 ### Teaching Assistant<br>
-2177: Calculus 3 — Mathematical Topics for Engineers (Fall 2024)  
-2173: Calculus 3 — Engineering Mathematics B (Fall 2024, Fall 2023) 
+2177: Calculus 3 — Mathematical Topics for Engineers (Fall 2024)  [Course Evaluation] (https://drive.google.com/file/d/1L42lpB63wjwFcx7kRSIhhNF8niox1xgE/view?usp=sharing)
+2173: Calculus 3 — Engineering Mathematics B (Spring 2025, Fall 2024, Fall 2023) 
 1149: Trigonometry (Spring 2024, Spring 2022)  
-2153: Calculus 3 (Fall 2022, Fall 2021)  
+2153: Calculus 3 (Fall 2022, Fall 2021) 
+1148: College Algebra (Spring 2025)
 1131: Calculus for Business (Spring 2021)  
 1152: Calculus 2 (Fall 2020)  
 1172: Engineering Mathematics A (Spring 2020) 
