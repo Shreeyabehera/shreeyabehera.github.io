@@ -8,9 +8,13 @@ author_profile: true
 
 # Northwestern University<br>
 ### Instructor<br>
-**Fall 2025**<br>
-STAT 303-1: Data Science with Python Sequence<br>
+**Winter 2026**<br>
+STAT 303-2: Data Science with Python Sequence<br>
 STAT 201: Introduction to Programming for Data Science
+
+**Fall 2025**<br>
+STAT 303-1: Data Science with Python Sequence**[Course Evaluation](https://drive.google.com/file/d/1t9SN02bAFbgZVuwd6fZz2yXLiJtmCcLG/view?usp=sharing)** <br>
+STAT 201: Introduction to Programming for Data Science**[Course Evaluation](https://drive.google.com/file/d/1hH37QbHUDYmvj3rnuIc4fgpw2Z8SMp6u/view?usp=sharing)** 
  
 # The Ohio State University<br>
 ### Teaching Assistant<br>
