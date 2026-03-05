@@ -13,7 +13,7 @@ STAT 303-2: Data Science with Python Sequence<br>
 STAT 201: Introduction to Programming for Data Science
 
 **Fall 2025**<br>
-STAT 303-1: Data Science with Python Sequence 
+STAT 303-1: Data Science with Python Sequence<br>
 STAT 201: Introduction to Programming for Data Science 
  
 # The Ohio State University<br>
